@@ -121,7 +121,7 @@ cd RTRSA
 ### 2. Install Python Dependencies
 
 ```bash
-pip install kafka-python pyspark datasketch elasticsearch langchain openai
+pip install kafka-python pyspark  elasticsearch langchain openai
 ```
 
 Note: The project uses LangChain's older `ChatOpenAI` import. Depending on the installed LangChain version, you may need compatible package versions or update the import.
