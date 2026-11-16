@@ -3,13 +3,6 @@
 
 A real-time data streaming project that processes restaurant customer reviews using Apache Kafka and Apache Spark Streaming, performs AI-based sentiment classification using GPT through LangChain, and stores the processed results in Elasticsearch for analysis and visualization.
 
-## Overview
-
-Customer reviews provide valuable insights into restaurant service quality, food, and customer satisfaction. However, manually analyzing a continuous stream of reviews can be time-consuming.
-
-This project demonstrates a real-time sentiment analysis pipeline that collects restaurant reviews, processes incoming messages, classifies their sentiment, and stores the results for further analysis.
-
-The system uses simulated restaurant review data to demonstrate a continuous streaming workflow.
 
 ## Key Features
 
