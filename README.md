@@ -198,7 +198,7 @@ The consumer reads messages from Kafka, performs sentiment classification, and s
 {
   "review_id": 1205,
   "restaurant_id": 301,
-  "review_text": "Amazing food! Loved it.",
+  "review_text": "Amazing food! Liked it.",
   "rating": 5,
   "timestamp": "2025-04-15 12:30:00"
 }
