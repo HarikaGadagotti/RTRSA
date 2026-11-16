@@ -196,19 +196,6 @@ The consumer reads messages from Kafka, performs sentiment classification, and s
 
 ```json
 {
-  "order_id": 1205,
-  "restaurant_name": "Pizza Hub",
-  "customer_name": "John Doe",
-  "review": "Amazing food! Liked it.",
-  "timestamp": "2025-04-15 12:30:00"  
-}
-```
-
-**Illustrative processed result:**
-**Input:**
-
-```json
-{
   "review_id": 1205,
   "restaurant_id": 301,
   "review_text": "Amazing food! Loved it.",
